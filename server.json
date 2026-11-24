@@ -3,8 +3,17 @@
   "name": "com.ownlybrand/site",
   "title": "OwnlyBrand B2B Marketplace & Direct Sales Database",
   "description": "Manufacturer guides on IndiaMART, Alibaba, ThomasNet, GlobalSpec costs vs owned sales channels",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "websiteUrl": "https://ownlybrand.com",
+  "icons": [
+    {
+      "src": "https://ownlybrand.com/images/ownlybrand/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
