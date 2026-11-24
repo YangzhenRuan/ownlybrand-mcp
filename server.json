@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.ownlybrand/site",
+  "title": "OwnlyBrand B2B Marketplace & Direct Sales Database",
+  "description": "Manufacturer guides on IndiaMART, Alibaba, ThomasNet, GlobalSpec costs vs owned sales channels",
+  "version": "1.1.1",
+  "websiteUrl": "https://ownlybrand.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://ownlybrand.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/YangzhenRuan/ownlybrand-mcp",
+    "source": "github"
+  }
+}

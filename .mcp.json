@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ownlybrand": {
+      "type": "http",
+      "url": "https://ownlybrand.com/mcp"
+    }
+  }
+}
