@@ -1,5 +1,7 @@
 # OwnlyBrand MCP server
 
+[![OwnlyBrand MCP connector](https://glama.ai/mcp/connectors/com.ownlybrand/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownlybrand/site)
+
 **Answers whether IndiaMART, Alibaba, ThomasNet or GlobalSpec are worth paying for versus an owned website, for manufacturers and OEM parts suppliers.**
 
 A free, public [MCP](https://modelcontextprotocol.io) server from [OwnlyBrand](https://ownlybrand.com?utm_source=github&utm_medium=readme&utm_campaign=mcp): **OwnlyBrand B2B Marketplace & Direct Sales Database**. Connect it to ChatGPT, Claude or another AI assistant and it answers from OwnlyBrand's published guides and articles, citing the page each answer comes from.
